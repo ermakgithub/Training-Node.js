@@ -1,5 +1,5 @@
 {
-  "name": "training",
+  "name": "node-js",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,19 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "training",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ermakgithub/Training-Node.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ermakgithub/Training-Node.js/issues"
+  },
+  "homepage": "https://github.com/ermakgithub/Training-Node.js#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
